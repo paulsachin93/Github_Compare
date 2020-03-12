@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paulsachin93.github.io/github_compare/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/paulsachin93.github.io/github_compare/static/js/main.d8f6cba4.chunk.js",
+    "main.js.map": "/paulsachin93.github.io/github_compare/static/js/main.d8f6cba4.chunk.js.map",
+    "runtime-main.js": "/paulsachin93.github.io/github_compare/static/js/runtime-main.43004b5b.js",
+    "runtime-main.js.map": "/paulsachin93.github.io/github_compare/static/js/runtime-main.43004b5b.js.map",
+    "static/js/2.6dfbb59b.chunk.js": "/paulsachin93.github.io/github_compare/static/js/2.6dfbb59b.chunk.js",
+    "static/js/2.6dfbb59b.chunk.js.map": "/paulsachin93.github.io/github_compare/static/js/2.6dfbb59b.chunk.js.map",
+    "index.html": "/paulsachin93.github.io/github_compare/index.html",
+    "precache-manifest.9f70e8910f8036745f4f8e3dfe5f86d7.js": "/paulsachin93.github.io/github_compare/precache-manifest.9f70e8910f8036745f4f8e3dfe5f86d7.js",
+    "service-worker.js": "/paulsachin93.github.io/github_compare/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/paulsachin93.github.io/github_compare/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6dfbb59b.chunk.js.LICENSE.txt": "/paulsachin93.github.io/github_compare/static/js/2.6dfbb59b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43004b5b.js",
+    "static/js/2.6dfbb59b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d8f6cba4.chunk.js"
+  ]
+}
